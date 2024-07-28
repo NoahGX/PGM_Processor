@@ -1,4 +1,4 @@
-# PGM-Processor
+# PGM Processor
 
 ## Overview
 The `pgm_processor` is a C program designed to process PGM (Portable Graymap Format) image files. It provides functionalities for reading PGM images, applying thresholding and rotation transformations, and then writing the results back to new PGM files. The program processes all PGM files found in the current directory.
